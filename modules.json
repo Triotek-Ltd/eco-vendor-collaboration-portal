@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "eco2_2",
+    "module_label": "ECO.2.2 - Order & Supply Coordination Logging",
+    "module_title": "Order & Supply Coordination Logging",
+    "module_slug": "order_and_supply_coordination_logging",
+    "app_code": "eco2",
+    "app_label": "ECO 2 - Vendor Collaboration Portal",
+    "bundle_code": "eco",
+    "source_md_path": "doc/rnd/plugs/eco/eco1.md"
+  },
+  {
+    "module_code": "eco2_3",
+    "module_label": "ECO.2.3 - Performance & SLA Monitoring",
+    "module_title": "Performance & SLA Monitoring",
+    "module_slug": "performance_and_sla_monitoring",
+    "app_code": "eco2",
+    "app_label": "ECO 2 - Vendor Collaboration Portal",
+    "bundle_code": "eco",
+    "source_md_path": "doc/rnd/plugs/eco/eco1.md"
+  },
+  {
+    "module_code": "eco2_1",
+    "module_label": "ECO.2.1 - Vendor Onboarding & Profile Management",
+    "module_title": "Vendor Onboarding & Profile Management",
+    "module_slug": "vendor_onboarding_and_profile_management",
+    "app_code": "eco2",
+    "app_label": "ECO 2 - Vendor Collaboration Portal",
+    "bundle_code": "eco",
+    "source_md_path": "doc/rnd/plugs/eco/eco1.md"
+  }
+]
